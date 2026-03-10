@@ -121,11 +121,6 @@ export default {
         titulo: 'Glosario',
       },
       {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
-      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -146,8 +141,7 @@ export default {
     {
       referencia:
         'Amador, A. y Oviedo G. (2006). Análisis de competitividad del biodiesel colombiano. Instituto Tecnológico y de Estudios Superiores de Monterrey.',
-      link:
-        'https://repository.unab.edu.co/bitstream/handle/20.500.12749/1973/2006_Tesis_Amador_Andrea.pdf?sequence=1&isAllowed=y',
+      link: '',
     },
     {
       referencia:
@@ -157,8 +151,7 @@ export default {
     {
       referencia:
         'Cardoso, M. y Poveda, N. (2021). Diagnóstico Organizacional y Plan de Mejoramiento para la Microempresa Modas Milenio del municipio de La Mesa, Cundinamarca [Trabajo de grado]. Universidad de Cundinamarca.',
-      link:
-        'https://repositorio.ucundinamarca.edu.co/bitstream/handle/20.500.12558/3761/Diagn%c3%b3stico%20organizacional%20y%20plan%20de%20mejoramiento%20para%20la%20microempresa%20modas%20milenio%20del%20municipio%20de%20La%20Mesa-%20Cundinamarca.pdf?sequence=1&isAllowed=y',
+      link: '',
     },
     {
       referencia:
@@ -181,8 +174,7 @@ export default {
     {
       referencia:
         'Gallardo, Y. y Moreno, A. (1999). Aprender a Investigar. Módulo 3. Recolección de la Información. ICFES.',
-      link:
-        ' https://www.unilibrebaq.edu.co/unilibrebaq/images/CEUL/mod3recoleccioninform.pdf',
+      link: '',
     },
     {
       referencia: 'Gerencie.com. (2022). Sociedad Unipersonal.',
@@ -192,8 +184,7 @@ export default {
     {
       referencia:
         'Matiz, F. y Pérez, A. (2009). Planeando la  Empresa I. Editorial Universidad EAN.',
-      link:
-        'https://editorial.universidadean.edu.co/acceso-abierto/planeando-la-empresa-i.pdf',
+      link: '',
     },
     {
       referencia:
@@ -202,8 +193,7 @@ export default {
     {
       referencia:
         'Pedraza, M., Sastoque, J., Serrano, L. y Tarazona, D. (2015). Diagnóstico organizacional a 100 Mipymes de Fusagasugá [Trabajo de investigación]. Universidad de Cundinamarca.',
-      link:
-        'https://repositorio.ucundinamarca.edu.co/bitstream/handle/20.500.12558/1349/DIAGNOSTICO%20ORGANIZACIONAL%20A%20100%20MIPYMES%20DE%20FUSAGASUGA.pdf?sequence=1&isAllowed=y',
+      link: '',
     },
     {
       referencia:
